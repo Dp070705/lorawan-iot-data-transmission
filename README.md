@@ -28,8 +28,12 @@ Sensor data is collected using Arduino, transmitted through LoRaWAN, received by
 * Successful long-range communication
 * Stable real-time data transfer
 
+
 # Future Improvements
 
 * Add data visualization dashboard
 * Improve power optimization
 * Integrate edge AI
+  
+# Project Report
+[Click here to view the full report]([Lora Report.pdf])
