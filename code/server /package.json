@@ -1,0 +1,9 @@
+{
+  "name": "lora-ttn-firebase-backend",
+  "version": "1.0.0",
+  "main": "firebase_bridge.js",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "firebase-admin": "^11.0.0"
+  }
+}
