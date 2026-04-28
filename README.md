@@ -26,6 +26,10 @@ Sensor data is collected using Arduino, transmitted through LoRaWAN, received by
 * Successful long-range communication
 * Stable real-time data transfer
 
+## Architecture
+
+Ultrasonic Sensor → Arduino → LoRa → Gateway → TTN → Node.js → Firebase
+
 ## Future Improvements
 
 * Add data visualization dashboard
